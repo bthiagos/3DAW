@@ -1,0 +1,19 @@
+body {
+    background: #f7f8ff;
+}
+
+.head-painel {
+    background: #000848;
+    background-image: url('../img/logo.jpg');
+    background-repeat: no-repeat;
+    background-position: right top;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+.head-painel ul {
+    text-align: right;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
